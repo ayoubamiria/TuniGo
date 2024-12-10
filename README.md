@@ -2,7 +2,7 @@
 
 TuniGo est une application mobile dédiée à faciliter le tourisme interne en Tunisie. Elle offre une interface utilisateur claire et intuitive, accessible à tous les âges. L'application permet aux utilisateurs de découvrir les meilleures options de voyages, d'hébergements et d'activités en Tunisie, tout en les aidant à planifier leur séjour grâce à un chatbot interactif.
 
-![Tunisie](https://example.com/photo_tunisie.jpg)
+![Tunisie](https://via.placeholder.com/1200x500.png?text=Bienvenue+en+Tunisie) <!-- Remplace ce lien par une vraie image -->
 
 ## Fonctionnalités
 
@@ -21,17 +21,17 @@ TuniGo est une application mobile dédiée à faciliter le tourisme interne en T
 - **Informations sur les Gouvernorats**  
   Détails sur les attractions touristiques populaires, les événements locaux et les recommandations par région.
 
-![Vue panoramique de la Tunisie](https://example.com/photo_panoramique_tunisie.jpg)
+![Vue panoramique de la Tunisie](https://via.placeholder.com/1200x500.png?text=Vue+Panoramique+de+la+Tunisie) <!-- Remplace ce lien par une vraie image -->
 
 ## Images Inspirantes de la Tunisie
 
-![Plage en Tunisie](https://example.com/photo_plage_tunisie.jpg)
-![Coucher de soleil sur le désert tunisien](https://example.com/photo_desert_tunisie.jpg)
+![Plage en Tunisie](https://via.placeholder.com/1200x500.png?text=Plage+de+Tunisie) <!-- Remplace ce lien par une vraie image -->
+![Coucher de soleil sur le désert tunisien](https://via.placeholder.com/1200x500.png?text=Coucher+de+soleil+dans+le+desert) <!-- Remplace ce lien par une vraie image -->
 
 ## GIFs Animés de la Tunisie
 
-![GIF Plage](https://media.giphy.com/media/abcd1234efghijkl/giphy.gif)
-![GIF Désert Tunisien](https://media.giphy.com/media/xyz5678mnopqrs/giphy.gif)
+![GIF Plage](https://media.giphy.com/media/YpHHwT1eWZOU/giphy.gif) <!-- Remplace ce lien par un vrai GIF -->
+![GIF Désert Tunisien](https://media.giphy.com/media/3oz8xVw7dPvcGnCoFC/giphy.gif) <!-- Remplace ce lien par un vrai GIF -->
 
 ## Installation
 

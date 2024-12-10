@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TuniGo</string>
+    <string name="job_success">Visited Places</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="my_desc">Crafting unforgettable journeys through unique experiences and seamless exploration. Wanderlust fuels every adventure we create.</string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Interests</string>
+    <string name="ratings">Favorite Places</string>
+    <string name="samplereview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pretium bibendum sapien, ut euismod massa. Duis convallis sem sed turpis elementum auctor.</string>
+</resources>

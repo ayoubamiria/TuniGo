@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Original colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colors for App Theme -->
+    <color name="colorPrimary">#6200EE</color> <!-- Primary Color (Purple) -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Darker shade of the primary color -->
+    <color name="colorAccent">#03DAC5</color> <!-- Accent Color (Teal) -->
+
+    <!-- Text and Background Colors -->
+    <color name="background_dark">#121212</color> <!-- Dark background color for dark mode -->
+    <color name="textColorPrimary">#FFFFFF</color> <!-- White text color -->
+    <color name="textColorSecondary">#AAAAAA</color> <!-- Light gray text color -->
+    <color name="cardBackground">#1D1D1D</color> <!-- Card background color -->
+    <!-- res/values/colors.xml -->
+    <color name="primary_text">#044363</color> <!-- Adjust the color as needed -->
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_blue">#1B2C59</color>
+    <color name="blue_gradient_1">#64B6AC</color>
+    <color name="blue_gradient_2">#3D82B3</color>
+    <color name="blue_gradient_3">#283593</color>
+    <color name="grey">#E9EAEE</color>
+    <color name="yellow">#F8BA0F</color>
+    <color name="goodgrey">#535353</color>
+    <color name="blue">#293859</color>
+    <color name="lightgrey">#EEEEEE</color>
+
+</resources>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    tools:context=".MoreOptionsActivity">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Explore Options"
+        android:textSize="24sp"
+        android:textColor="@color/dark_blue"
+        android:fontFamily="sans-serif-medium"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:paddingTop="24dp" />
+
+    <!-- Hotels Card -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/hotelsCard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:cardElevation="6dp"
+        app:cardCornerRadius="12dp"
+        app:cardBackgroundColor="@color/blue_gradient_1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/titleTextView"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="32dp"> <!-- Increased marginTop -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <ImageView
+                android:id="@+id/hotelsImage"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/hotels_icon"
+                app:tint="@android:color/white" />
+
+            <TextView
+                android:id="@+id/hotelsText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_gravity="center_vertical"
+                android:text="Hotels"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/rubik_medium" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- Monuments Card -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/monumentsCard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:cardElevation="6dp"
+        app:cardCornerRadius="12dp"
+        app:cardBackgroundColor="@color/blue_gradient_2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/hotelsCard"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="32dp"> <!-- Increased marginTop -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <ImageView
+                android:id="@+id/monumentsImage"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/monuments_icon"
+                app:tint="@android:color/white" />
+
+            <TextView
+                android:id="@+id/monumentsText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_gravity="center_vertical"
+                android:text="Monuments"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/rubik_medium" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- Restaurants Card -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/restaurantsCard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:cardElevation="6dp"
+        app:cardCornerRadius="12dp"
+        app:cardBackgroundColor="@color/blue_gradient_3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/monumentsCard"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="32dp"> <!-- Increased marginTop -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <ImageView
+                android:id="@+id/restaurantsImage"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/restaurants_icon"
+                app:tint="@android:color/white" />
+
+            <TextView
+                android:id="@+id/restaurantsText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_gravity="center_vertical"
+                android:text="Restaurants"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/rubik_medium" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

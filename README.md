@@ -2,7 +2,7 @@
 
 TuniGo est une application mobile dédiée à faciliter le tourisme interne en Tunisie. Elle offre une interface utilisateur claire et intuitive, accessible à tous les âges. TuniGo permet aux utilisateurs de découvrir les meilleures options de voyages, d'hébergements, et d'activités à travers la Tunisie, tout en les aidant à planifier leur séjour grâce à un chatbot interactif. Ce projet est réalisé par **Ayoub Amiria** et **Alaa Yousfi**.
 
-![Tunisie]([https://via.placeholder.com/1200x500.png?text=Bienvenue+en+Tunisie](https://fr.pinterest.com/pin/582794008062007212/)) <!-- Remplace ce lien par une vraie image -->
+![Tunisie]([[https://via.placeholder.com/1200x500.png?text=Bienvenue+en+Tunisie](https://fr.pinterest.com/pin/582794008062007212/)](https://fr.pinterest.com/pin/582794008062007212/)) <!-- Remplace ce lien par une vraie image -->
 
 ## Objectifs du Projet
 
